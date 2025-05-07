@@ -11,6 +11,8 @@ pandas
 fpdf
 requests
 google-generativeai
+pyaudio==0.2.14
+pyaudio
 #langchain 
 #wikipedia 
 #langchain-community 
